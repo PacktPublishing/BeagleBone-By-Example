@@ -1,6 +1,5 @@
 # Beaglebone By Example
-Code Repository for Beaglebone By Example, Published by Packt Publishing
-This is the code repository for [Beaglebone By Example](https://www.packtpub.com/hardware-and-creative/beaglebone-example?utm_source=Github&utm_medium=repository&utm_campaign=9781785285059
+Code Repository for [Beaglebone By Example](https://www.packtpub.com/hardware-and-creative/beaglebone-example?utm_source=Github&utm_medium=repository&utm_campaign=9781785285059
 ), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
