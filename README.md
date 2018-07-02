@@ -15,9 +15,6 @@ C = B + A
 D = B - A
 print "A + B is", C
 print "A - B is", D
-
-
-
 ```
 
 
