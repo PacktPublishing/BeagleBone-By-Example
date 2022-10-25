@@ -23,3 +23,7 @@ print "A - B is", D
 * [BeagleBone Robotic Projects](https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects?utm_source=Github&utm_medium=repository&utm_campaign=9781783559329)
 * [BeagleBone Home Automation](https://www.packtpub.com/hardware-and-creative/beaglebone-home-automation?utm_source=Github&utm_medium=repository&utm_campaign=9781783285730)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785285059">https://packt.link/free-ebook/9781785285059 </a> </p>
